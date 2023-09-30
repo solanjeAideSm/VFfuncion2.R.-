@@ -1,0 +1,131 @@
+---
+title: "Descuento simple y CETES"
+output: 
+  ioslides_presentation:
+    widescreen: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## <span style="color:blue"> Descuento simple
+
+En algunas operaciones de crédito bancarias se acostumbra cobrar el interés en el momento mismo en que se efectúa el préstamo. Cobrar el interés por adelantado, en lugar de cobrarlo hasta la fecha de vencimiento, se llama descuento simple, descuento bancario o simplemente descuento.
+
+Al interés cobrado anticipadamente se le llama descuento y la cantidad de dinero que recibe el solicitante del préstamo, una vez descontado el interés, se llama valor efectivo.
+
+## <span style="color:blue"> Ejemplo
+
+Suponga que una persona solicita un préstamo por $10 000, a 2 meses de plazo y el interés se cobrará por adelantado. Si la tasa de interés es del 3% mensual, entonces el interés anticipado, o descuento, por cobrar en el momento de recibir el préstamo es:
+
+
+Datos 
+
+Prestamos de $10,000
+
+Tiempo = 2 meses
+
+Tasa de interés= 3% mensual 
+
+Interés anticipado = Descuento = (10 000)(0.03)(2) = $600
+
+El valor efectivo o cantidad recibida por el solicitante será:
+
+Valor efectivo = 10 000 - 600 = $9400
+
+---
+
+La persona que solicita el préstamo recibe en realidad $9400, en lugar de los $10 000 solicitados, pero al cabo de los dos meses tendrá que pagar $10 000, por ser ésta la cantidad pedida en préstamo. Por lo tanto, los $10 000 solicitados, que nunca se reciben,
+se convierten en el monto por pagar y los $9400 son, en realidad, el capital recibido.
+Afín de indicar explícitamente que en un préstamo el interés se cobrará de manera anticipada, la tasa de interés cambia de nombre: se le llama tasa de descuento y se representa mediante la letra d.
+
+---
+
+El  descuento se calcula mediante la siguiente formula:
+
+$D=Fdt$
+
+D = es el descuento o interés cobrado anticipadamente
+
+F = es el monto por pagar; esto es, la cantidad solicitada en préstamo y que nunca se recibe
+
+d = es la tasa de descuento y t es el plazo. 
+
+Como el valor efectivo (VE) es el monto por pagar menos el descuento, entonces tenemos la siguiente formula:
+
+$VE =F-D$
+
+## <span style="color:blue"> Definición
+
+- CETES
+
+- Títulos de crédito
+
+- Bonos cupón cero
+
+- Banxico
+
+- Secretaría de hacienda y crédito público
+
+- Instrumento de deuda
+
+## <span style="color:blue"> Características
+
+- Rendimiento fijo
+
+- Liquidez
+
+- Denominación mínima
+
+- Descuento
+
+- Plazo
+
+- Colocación primaria
+
+- Mercado secundaria
+
+- Identificación de los títulos
+
+- Régimen fiscal
+
+## <span style="color:blue"> ¿Para qué sirven?
+
+- Inversión segura
+
+- Generación de ingresos
+
+- Liquidez
+
+- Financiamiento
+
+- Inflación
+
+## <span style="color:blue"> Comparación con otros instrumentos financieros
+
+- Acciones
+
+- Bonos
+
+- Fondos de inversión
+
+- Fibras (Bienes Raíces)
+
+- Bolsa de Valores
+
+## <span style="color:blue"> Ventajas y desventajas 
+
+- Seguridad
+
+- Liquidez
+
+- Transparencia
+
+- Rendimiento Potencialmente Bajo
+
+- Impuestos
+
+- Tasas Variables
+
+## <span style="color:blue"> Conclusión
